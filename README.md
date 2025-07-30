@@ -54,5 +54,5 @@ Siga os passos abaixo para ter o projeto funcionando em sua máquina:
 Abra seu terminal ou prompt de comando e clone o projeto:
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
-cd NOME_DO_SEU_REPOSITORIO
+git clone https://github.com/fer-isa/ConversorDeMoedas_ChallengeAluraONE.git
+cd ConversorDeMoedas_ChallengeAluraONE
